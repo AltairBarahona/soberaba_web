@@ -47,8 +47,8 @@ const RESOURCES = {
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "1e847d99ade481e04f802464c53f0826",
-"/": "1e847d99ade481e04f802464c53f0826",
+"index.html": "443414d7c404e16bd6608481d241e1da",
+"/": "443414d7c404e16bd6608481d241e1da",
 "main.dart.js": "9d8a39a74744182b891f8c13f2266a3e",
 "manifest.json": "a990e29d5cb59f6159601fee5e5e1cb1",
 "version.json": "ecba12b21b5018b2d8343692b419f10c"
